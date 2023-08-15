@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sub {
+    color: red;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+li,
+.des {
+    font-size: 20px;
+}

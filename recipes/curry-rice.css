@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(245, 165, 46);
+    color: brown;
+    font-family: Arial, "Times New Roman", sans-serif;
+}
+
+.tit,
+.pic,
+.title,
+p,
+.cook {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 700px;
+}
+
+.cook {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p,
+ul.list,
+ol.list {
+    font-size: 20px;
+}

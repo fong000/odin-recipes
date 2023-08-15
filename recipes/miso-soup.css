@@ -1,0 +1,30 @@
+* {
+    background-color: #778899;
+    font-family: 'Lucida Sans', "Times New Roman", sans-serif;
+}
+
+img {
+    height: auto;
+    width: 750px;    
+}
+
+.title,
+div.sub,
+.h2 {
+    color: #006400;
+    font-size: 26px;
+}
+
+p,
+ol,
+ul {
+    color: #90ee90;
+    font-size: 20px;
+}
+
+.title,
+.img,
+.h2,
+p {
+    text-align: center;
+}
